@@ -2,7 +2,7 @@
 # This code is an adaptation of Jose Portilla's code found here:
 # https://www.springboard.com/blog/beginners-guide-neural-network-in-python-scikit-learn-0-18/
 # Check out his blog!
-# by Python Noob on 10/6/2018
+# This iteration by Python Noob on 10/6/2018
 ##########################
 
 import pandas as pd
